@@ -3,7 +3,7 @@
 ![screenshot site](img/lagoona.png)
 
 ## description
-- 1. Таблица пользователей
+-- 1. Таблица пользователей
 CREATE TABLE `users` (
   `id`          INT(11) NOT NULL AUTO_INCREMENT,
   `name`        VARCHAR(255) NOT NULL,
