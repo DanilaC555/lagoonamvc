@@ -1,4 +1,4 @@
-# lagoonamvc
+# lagoona mvc
 
 ![screenshot site](img/lagoona.png)
 
